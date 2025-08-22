@@ -1,0 +1,1 @@
+Este projeto de Data Science está em andamento e tem como objetivo a criação de um sistema de recomendação de imóveis na cidade do Rio de Janeiro. O projeto segue um fluxo de trabalho completo, que inclui a coleta de dados, a análise, o armazenamento e a visualização, culminando em um protótipo de sistema de recomendação.
